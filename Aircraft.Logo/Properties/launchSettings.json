@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aircraft.Logo": {
+      "commandName": "Project",
+      "commandLineArgs": "-lat 45d07'20\\\"N -lon 94d13'02\\\"W -svg tree.svg"
+    }
+  }
+}
